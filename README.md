@@ -1,6 +1,6 @@
 
 <span>
-<img src="./images/card-linked.jpg">
+<img src="./images/card-linked.jpg" width="850">
 </span>
 
 
