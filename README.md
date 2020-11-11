@@ -1,6 +1,6 @@
 
 <span>
-<img src="./images/vintage-thin.jpg">
+<img src="./images/card-linked.jpg">
 </span>
 
 
