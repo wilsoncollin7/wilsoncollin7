@@ -1,7 +1,6 @@
 
 <span>
 <img src="./images/vintage-card.jpg" width="495">
-<img src="./images/beer.gif" width="350"> 
 </span>
 
 
