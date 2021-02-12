@@ -3,7 +3,7 @@
 <img src="./images/card-linked.jpg">
 </span>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsoncollin7&count_private=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoncollin7&langs_count=3&layout=compact&theme=onedark)](https://github.com/wilsoncollin7/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilsoncollin7&count_private=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoncollin7&layout=compact&theme=onedark)](https://github.com/wilsoncollin7/github-readme-stats) 
 
 <p align="center">
     <a href="mailto:wilsoncollin7@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=Gmail&logoColor=white"></a>
